@@ -1,0 +1,55 @@
+Input data: 
+13 21 16 24 31 33 14 19 68 65 26 32 
+
+Heap: 
+13 19 14 21 26 32 16 24 68 65 31 33 
+
+Heap after insert 31: 
+13 19 14 21 26 31 16 24 68 65 31 33 32 
+
+Heap after insert 14: 
+13 19 14 21 26 31 14 24 68 65 31 33 32 16 
+
+Heap after deleteMin: 
+14 19 14 21 26 31 16 24 68 65 31 33 32 
+
+Heap after deleteMin: 
+14 19 16 21 26 31 32 24 68 65 31 33 
+
+Heap after deleteMin: 
+16 19 31 21 26 33 32 24 68 65 31 
+
+Heap after deleteMin: 
+19 21 31 24 26 33 32 31 68 65 
+
+Heap after deleteMin: 
+21 24 31 31 26 33 32 65 68 
+
+Heap after deleteMin: 
+24 26 31 31 68 33 32 65 
+
+Heap after deleteMin: 
+26 31 31 65 68 33 32 
+
+Heap after deleteMin: 
+31 31 32 65 68 33 
+
+Heap after deleteMin: 
+31 33 32 65 68 
+
+Heap after deleteMin: 
+32 33 68 65 
+
+Heap after deleteMin: 
+33 65 68 
+
+Heap after deleteMin: 
+65 68 
+
+Heap after deleteMin: 
+68 
+
+Heap after deleteMin: 
+
+
+Deleted all.
